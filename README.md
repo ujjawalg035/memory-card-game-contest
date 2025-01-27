@@ -8,6 +8,7 @@ Welcome to the **Memory Card Game** challenge! This project involves creating a 
 ```
 memory-card-game/
 │
+├── .github     # This file not for you, pls don't modify it.
 ├── images/                    # Folder containing images for the cards
 │   ├── aeroplane.jpg
 │   ├── cat.jpg
@@ -25,6 +26,7 @@ memory-card-game/
 │   └── script.js                 # Main game logic (to be implemented by participants)
 │
 ├── index.html                 # The main HTML file for the game
+├── evaluate.js                #This file is not for you, pls don't modify it!!!
 ├── README.md                  # This file - documentation about the project
 └── LICENSE                    # License file for the project
 ```
