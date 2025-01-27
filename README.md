@@ -22,7 +22,7 @@ memory-card-game/
 │   └── style.css
 │
 ├── js/                         # Folder containing JavaScript files
-│   └── game.js                 # Main game logic (to be implemented by participants)
+│   └── script.js                 # Main game logic (to be implemented by participants)
 │
 ├── index.html                 # The main HTML file for the game
 ├── README.md                  # This file - documentation about the project
