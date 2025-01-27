@@ -1,4 +1,5 @@
 // Write your code here
+//final
 const cards = document.querySelectorAll('.card');
 let flippedCards = [];
 let matchedPairs = 0;
