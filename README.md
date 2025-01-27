@@ -97,11 +97,3 @@ If your PR passes the checks, it will be ready to merge. If not, the PR will be 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### Key Sections:
-- **Project Structure**: A clear breakdown of the folder and file structure in the repository.
-- **About the Project**: A brief description of the Memory Card Game and its objective.
-- **What You Need to Do**: A list of tasks that participants need to complete to finish the project.
-- **How to Participate**: Instructions on how to clone the repo, implement the game, and submit their solution.
-- **Evaluation Criteria**: The aspects that will be evaluated in the submissions.
-- **License**: Information about the project license (MIT License).
