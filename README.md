@@ -57,7 +57,7 @@ The **Memory Card Game** is a fun and interactive game where the player needs to
    ```
 
 2. **Develop the Game**:
-   Modify the `game.js` file to implement the game logic.
+   Modify the `script.js` file to implement the game logic.
    - The game should randomly shuffle and display the cards.
    - Implement the logic to flip cards, check for matches, and track the number of moves and time taken.
 
