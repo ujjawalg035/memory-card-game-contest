@@ -1,0 +1,19 @@
+[
+    { "id": 1, "pair": "A", "img": "images/aeroplane.jpg" },
+    { "id": 2, "pair": "A", "img": "images/aeroplane-match.jpg" },
+    { "id": 3, "pair": "B", "img": "images/cat.jpg" },
+    { "id": 4, "pair": "B", "img": "images/cat-match.jpg" },
+    { "id": 5, "pair": "C", "img": "images/crocodile.jpg" },
+    { "id": 6, "pair": "C", "img": "images/crocodile-match.jpg" },
+    { "id": 7, "pair": "D", "img": "images/dog.jpg" },
+    { "id": 8, "pair": "D", "img": "images/dog-match.jpg" },
+    { "id": 9, "pair": "E", "img": "images/elephant.jpg" },
+    { "id": 10, "pair": "E", "img": "images/elephant-match.jpg" },
+    { "id": 11, "pair": "F", "img": "images/fish.jpg" },
+    { "id": 12, "pair": "F", "img": "images/fish-match.jpg" },
+    { "id": 13, "pair": "G", "img": "images/lion.jpg" },
+    { "id": 14, "pair": "G", "img": "images/lion-match.jpg" },
+    { "id": 15, "pair": "H", "img": "images/snake.jpg" },
+    { "id": 16, "pair": "H", "img": "images/snake-match.jpg" }
+  ]
+  
