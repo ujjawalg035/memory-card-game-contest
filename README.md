@@ -51,6 +51,11 @@ The **Memory Card Game** is a fun and interactive game where the player needs to
 3. **Test the Game**:
    - Make sure the game functions correctly by testing the card flipping, matching logic, and user interactions.
 
+## Extra Point - Leaderboard:
+- Implement a simple leaderboard that tracks the player's best time for each difficulty level.
+- Players' scores should be stored in the local storage (so the leaderboard persists after page reloads).
+**Extra Points**: 5 points for adding the leaderboard and saving data to local storage
+
 ## How to Participate
 
 1. **Clone the Repository**:
