@@ -28,6 +28,7 @@ memory-card-game/
 ├── index.html                 # The main HTML file for the game
 ├── evaluate.js                #This file is not for you, pls don't modify it!!!
 ├── README.md                  # This file - documentation about the project
+|--- card.json                  # This file contains the json format for images used  in the game
 └── LICENSE                    # License file for the project
 ```
 
